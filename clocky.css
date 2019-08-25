@@ -1,0 +1,54 @@
+body {
+    background-color: green;
+}
+
+.temp {
+    width: 100%;
+    max-width: 1250px;
+    text-align: center;
+    color: springgreen;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+header {
+    font-size: 25px;
+    line-height: 75px;
+}
+
+h3 {
+    font-size: 30px;
+
+}
+
+h4 #clock {
+    font-size: 38px;
+    display: block;
+    padding: 5px 0px;
+
+}
+
+div #goodMorning {
+    font-size: 30px;
+}
+
+#skullting {
+    width: 100%;
+    max-width: 550px;
+    margin: 30px 0 20px 0;
+}
+
+#backgroundChangeColor {
+  height: 15px;
+    background-color: pink;
+    color: black;
+    font-size: 22px;
+    border: 2px;
+    height: 28px;
+}
+
+
