@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(216, 255, 117);
+}
+
+#container {
+   text-align: left;
+   font-size: 25px;
+   background-color: white;
+   width: 30%;
+    height: 490px;
+    margin: -50px auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.8);
+}
+
+h1 {
+    margin: 0px auto;
+    width: 30%;
+    height: 80px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: rgb(104, 87, 225);
+    text-align: center;
+    padding-top: 22px;
+    font-size: 35px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.8);
+}
+
+p {
+    padding-left: 20px;
+}
+
+input[type="text"] {
+    margin-left: 20px;
+    width: 190px;
+    text-align: left;
+}
+
+#billAmount {
+    font-size: 14px;
+   padding: 5px 5px 5px 10px;
+    margin: 0px 0px 10px 20px;
+}
+
+#serviceQuality {
+   margin-left: 40px;
+    padding: 15px 15px 15px 20px;
+}
+
+#numOfPeople {
+    padding: 10px 10px 10px 10px;
+}
+
+button {
+    display: block;
+    margin: 30px 0px 0px 180px;
+    padding: 5px 15px 5px 15px;
+}
+
+#totalTip {
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+
+
+
+
